@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/noah-ripstein/" target="_blank">
+  <a href="https://www.linkedin.com/in/noah-ripstein/">
     <img src="https://img.shields.io/static/v1?label=%20&logo=linkedin&labelColor=555&message=LinkedIn&color=blue"/>
   </a>
   <a href="mailto:noah.h.ripstein@gmail.com">
     <img src="https://img.shields.io/static/v1?label=%20&logo=gmail&labelColor=555&message=Email&color=red"/>
   </a>
-  <a href="https://nripstein.github.io/ target="_blank"">
+  <a href="https://nripstein.github.io/">
     <img src="https://img.shields.io/static/v1?label=%20&logo=firefoxbrowser&labelColor=555&message=Homepage&color=darkcyan"/>
   </a>
 </p>

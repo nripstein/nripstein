@@ -13,7 +13,7 @@
   <a href="mailto:noah.h.ripstein@gmail.com">
     <img src="https://img.shields.io/static/v1?label=%20&logo=gmail&labelColor=555&message=Email&color=red"/>
   </a>
-  <a href="https://nripstein.github.io/">
+  <a href="http://noahripstein.com/">
     <img src="https://img.shields.io/static/v1?label=%20&logo=firefoxbrowser&labelColor=555&message=Homepage&color=darkcyan"/>
   </a>
 </p>
@@ -38,5 +38,6 @@ noah = Person(
   <li>🌱 I’m learning unserpervised learning techniques and R</li>
   <li>💬 Ask me about how our brains use Bayesian inference (the topic of my undergraduate thesis)</li>  
 </ul>
-
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nripstein&theme=github_dark"></p>
+<img src="https://img.shields.io/badge/dynamic/json)
 

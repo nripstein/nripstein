@@ -34,7 +34,8 @@ noah = Person(
 
 <H3>What I'm up to</H3>
 <ul>
-  <li>🔭 I’m working on a machine learning project which predicts powerlifting competition winners</li>
+  <li>🔭 I’m working on a computer vision program to automatically zoom, crop and label videos to drastically reduce manual inspection time for the <a href="https://pnb.mcmaster.ca/goldreich-lab/CurrentRes.html#Modeling">Goldreich Tactile Computational Neuroscience Lab</a>
+</li>
   <li>🌱 I’m learning unserpervised learning techniques and R</li>
   <li>💬 Ask me about how our brains use Bayesian inference (the topic of my undergraduate thesis)</li>  
 </ul>

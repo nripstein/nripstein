@@ -34,9 +34,9 @@ noah = Person(
 
 <H3>What I'm up to</H3>
 <ul>
-  <li>🔭 I’m working on a computer vision program to automatically zoom, crop and label videos to drastically reduce manual inspection time for the <a href="https://pnb.mcmaster.ca/goldreich-lab/CurrentRes.html#Modeling">Goldreich Tactile Computational Neuroscience Lab</a>
+  <li>🔭 I’m working on a computer vision program to automatically zoom, crop and label videos to drastically reduce manual inspection time for my  the <a href="https://pnb.mcmaster.ca/goldreich-lab/CurrentRes.html#Modeling">Goldreich Lab</a>, where I'm researching the computational neuroscience of haptic categorization
 </li>
-  <li>🌱 I’m learning unserpervised learning techniques and R</li>
+  <li>🌱 I’m learning computer vision techniques with OpenCV</li>
   <li>💬 Ask me about how our brains use Bayesian inference (the topic of my undergraduate thesis)</li>  
 </ul>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nripstein&theme=github_dark"></p>

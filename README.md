@@ -41,6 +41,6 @@ noah = Person(
   <li>🌱 I’m currently learning techniques in Computer Vision and Time Series analysis</li>
   <li>💬 Ask me about how our brains use Bayesian inference (the topic of my undergraduate thesis)</li>  
 </ul>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nripstein&theme=github_dark"></p>
-<img src="https://img.shields.io/badge/dynamic/json)
+
+
 

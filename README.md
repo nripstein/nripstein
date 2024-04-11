@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  I'm an undergraduate student at McMaster University interested in Data Science and Computational Statistics.
+  I'm an undergraduate student at McMaster University interested in Machine Learning and Computational Statistics.
 </p>
 
 <p align="center">

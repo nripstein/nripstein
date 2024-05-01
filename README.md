@@ -36,10 +36,10 @@ noah = Person(
 
 <H3>What I'm up to</H3>
 <ul>
-  <li>🔭 I’m working on an <a href="https://github.com/nripstein/Undergrad-Thesis">AI Computer Vision program</a> to automatically zoom, crop and label videos to drastically reduce manual inspection time for the <a href="https://pnb.mcmaster.ca/goldreich-lab/CurrentRes.html#Modeling">Goldreich Lab</a>, where I'm researching the computational neuroscience of haptic categorization
+  <li>🔭 In summer 2024, I'm working in the <a href="https://jobs.rbc.com/ca/en/amplify-studentexperience">RBC Amplify program</a> as a software developer</li>
+  <li>📝 I recently finished my honours Neuroscience thesis, which involved Bayesian modeling of human tactile perception and designing a <a href="https://github.com/nripstein/Undergrad-Thesis">Computer Vision program</a> to automatically zoom, crop and temporally segment videos of participants performing an experiment.
 </li>
-  <li>🌱 I’m currently learning techniques in Computer Vision and Time Series analysis</li>
-  <li>💬 Ask me about how our brains use Bayesian inference (the topic of my undergraduate thesis)</li>  
+  <li>💬 Ask me about how our brains subconsciously use Bayesian inference (the topic of my honours thesis)</li>  
 </ul>
 
 

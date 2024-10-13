@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  I'm an undergraduate student at McMaster University interested in Machine Learning and Computational Statistics.
+  I'm an undergraduate student at McMaster University interested in Computational Statistics and Machine Learning.
 </p>
 
 <p align="center">
@@ -25,21 +25,19 @@ noah = Person(
   name = "Noah Ripstein",
   email = "noah.h.ripstein@gmail.com",
   country = "🇨🇦",
-  education = {"school": "McMaster University",
-               "program": "Artsci + Psych, Neuro, Behaviour + Math",
-               "year": 4}
-  languages = [Python, SQL, R, MATLAB],
-  tools = [NumPy, Matplotlib, Pandas, TensorFlow, Sklearn, PostgreSQL, Ggplot2, OpenCV]
+  languages = [Python, R, STAN, SAS, SQL, MATLAB],
+  tools = [NumPy, Matplotlib, Pandas, TensorFlow, Sklearn, OpenCV, R-INLA]
 )
 ```
 
 
-<H3>What I'm up to</H3>
+<H3>Recent activity</H3>
+
 <ul>
-  <li>🔭 In summer 2024, I'm working in the <a href="https://jobs.rbc.com/ca/en/amplify-studentexperience">RBC Amplify program</a> as a software developer</li>
-  <li>📝 I recently finished my honours Neuroscience thesis, which involved Bayesian modeling of human tactile perception and designing a <a href="https://github.com/nripstein/Thesis-100-DOH">Computer Vision program</a> to automatically zoom, crop and temporally segment videos of participants performing an experiment.
+  <li>👨‍💻 My current research focuses on fast approximate inference for Bayesian hierarchical models and applications of these methods to complex public health data.</li>  
+  <li>🎉 In summer 2024, the multimodal ML product I developed at <a href="https://jobs.rbc.com/ca/en/amplify-studentexperience">RBC Amplify</a> was awarded the "Industry Disruptor Award" by top executives.</li>
+  <li>🧠 In April, I finished my undergraduate Neuroscience thesis, which involved Bayesian modeling of human tactile perception and learning and also designing a <a href="https://github.com/nripstein/Thesis-100-DOH">Computer Vision program</a> to automatically zoom, crop and temporally segment videos of participants performing an experiment.
 </li>
-  <li>💬 Ask me about how our brains subconsciously use Bayesian inference (the topic of my honours thesis)</li>  
 </ul>
 
 

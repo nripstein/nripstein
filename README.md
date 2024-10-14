@@ -35,7 +35,7 @@ noah = Person(
 
 <ul>
   <li>👨‍💻 My current research focuses on fast approximate inference for Bayesian hierarchical models and applications of these methods to complex public health data.</li>  
-  <li>🎉 In summer 2024, I built a patent-pending multimodal ML product at <a href="https://jobs.rbc.com/ca/en/amplify-studentexperience">RBC Amplify</a> which was recognized with the "Industry Disruptor Award" by top executives.</li>
+  <li>🎉 In summer 2024, I built a patent-pending multimodal ML product at <a href="https://jobs.rbc.com/ca/en/amplify-studentexperience">RBC Amplify</a> which was awarded the "Industry Disruptor Award" by top executives.</li>
   <li>🧠 In April, I finished my undergraduate Neuroscience thesis, which involved Bayesian modeling of human tactile perception and learning and also designing a <a href="https://github.com/nripstein/Thesis-100-DOH">Computer Vision program</a> to automatically zoom, crop and temporally segment videos of participants performing an experiment.
 </li>
 </ul>

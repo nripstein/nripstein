@@ -3,18 +3,18 @@
 
 
 <p align="center">
-  I'm a student at McMaster University interested in Computational Statistics and Machine Learning
+  I'm a student at McMaster University interested in Computational Statistics and healthcare applications
 </p>
 
 <p align="center">
+  <a href="http://noahripstein.com/">
+    <img src="https://img.shields.io/badge/homepage-darkcyan?style=for-the-badge&logo=firefoxbrowser"/>
+  </a>
   <a href="https://www.linkedin.com/in/noah-ripstein/">
-    <img src="https://img.shields.io/static/v1?label=%20&logo=linkedin&labelColor=555&message=LinkedIn&color=blue"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:noah.h.ripstein@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=%20&logo=gmail&labelColor=555&message=Email&color=red"/>
-  </a>
-  <a href="http://noahripstein.com/">
-    <img src="https://img.shields.io/static/v1?label=%20&logo=firefoxbrowser&labelColor=555&message=Homepage&color=darkcyan"/>
+    <img src="https://img.shields.io/badge/email-teal?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 

@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  I'm a student at McMaster University interested in Computational Statistics and healthcare applications
+  I'm a stats PhD student at U of T interested in Computational Statistics and healthcare applications
 </p>
 
 <p align="center">

@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Noah!
-- 📚 I'm a Statistics PhD student at the University of Toronto
-- 👀 I’m interested in computational statistics, machine learning, and applications to complex data
+- 👋 Hi, I'm a Statistics PhD student at the University of Toronto
+- 📚 I’m interested in computational statistics, machine learning, and applications to complex data
 - 🏠 You can read about my work at [noahripstein.com](https://noahripstein.com)
